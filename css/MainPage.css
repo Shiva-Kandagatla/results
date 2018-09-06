@@ -1,0 +1,53 @@
+body{
+  background-color: #76b852;
+  
+}
+
+div.box {
+    position: relative;
+    width: 50vh;
+    height: 50vh;
+    background: lightblue;
+    margin-top: 25vh;
+    padding: 20px;    
+}
+
+.con{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.space{
+  width:10%;
+}
+
+div.box:hover {
+    cursor: hand;
+    cursor: pointer;
+    opacity: .6;
+    background-color: lightyellow;
+}
+
+a.divLink {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    text-decoration: none;
+    z-index: 10;
+    opacity: 0;
+    filter: alpha(opacity=0);
+  
+}
+
+.topdown{
+  margin-top: 25%;
+  font-weight: 500;
+}
+.top{
+  margin-top: 25%;
+  font-weight: lighter;
+}
