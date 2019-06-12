@@ -10,8 +10,8 @@ Live Demo Credentials
 
 Head over to https://resultsproject.000webhostapp.com/results/index.php.
 Under Admin Login, enter
-- username - shiva
-- password - 123
+ username - shiva
+  password - 123
 
 
 *******************
